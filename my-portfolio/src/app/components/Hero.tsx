@@ -28,7 +28,7 @@ const Hero = () => {
         transition={{ duration: 1 }}
         className="text-5xl font-bold mb-4"
       >
-        Hi, I'm Shraddha
+        Hi, I&apos;m Shraddha
       </motion.h1>
       <motion.p
         initial={{ y: 50, opacity: 0 }}
@@ -36,7 +36,7 @@ const Hero = () => {
         transition={{ duration: 1, delay: 0.5 }}
         className="text-xl text-center max-w-xl mb-8"
       >
-        I'm a Computer Science student passionate about creating interactive and immersive web applications.
+        I&apos;m a Computer Science student passionate about creating interactive and immersive web applications.
       </motion.p>
       
       {/* Buttons */}
