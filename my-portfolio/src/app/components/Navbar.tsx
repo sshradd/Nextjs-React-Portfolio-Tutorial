@@ -8,6 +8,9 @@ const Navbar = () => {
         <Link href="#about">About</Link>
         <Link href="#projects">Projects</Link>
         <Link href="#contact">Contact</Link>
+        <Link href="/schedule-meeting" className="bg-purple-600 hover:bg-purple-700 px-3 py-1 rounded transition-colors">
+          Schedule a Meeting
+        </Link>
       </div>
     </nav>
   );

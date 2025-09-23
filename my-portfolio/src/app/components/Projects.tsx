@@ -13,6 +13,12 @@ const projects = [
     github: "#",
     demo: "#",
   },
+  {
+    name: "Mae-Proval",
+    description: "An app that helps determine eligibility for buying a home and suggests improvements.",
+    github: "#",
+    demo: "#",
+  },
 ];
 
 const Projects = () => {
